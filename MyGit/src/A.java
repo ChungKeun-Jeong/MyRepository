@@ -4,5 +4,6 @@ public class A {
 		System.out.println("A");
 		System.out.println("AAA");
 		B b = new B();
+		C c = new C();
 	}
 }
