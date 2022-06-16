@@ -1,5 +1,9 @@
 
 public class B {
+	public B() {
+		System.out.println("B »ý¼ºÀÚ");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("B");
 	}
