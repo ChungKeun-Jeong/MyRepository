@@ -1,5 +1,9 @@
 
 public class C {
+	public C() {
+		System.out.println("C »ý¼ºÀÚ");
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("C");
 	}
